@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR6c0124/v1
+canonical_location: https://kanripo.org/bkk/KR6c0124/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
+assets:
+  parts:
+  - {seq: 1, filename: KR6c0124_001.yaml, hash: 'sha256:add01f38cc61ff4339ba0ba636867aa3debe6912bf52015f8c8127cf8a4f8f45'}
+  - {seq: 2, filename: KR6c0124_002.yaml, hash: 'sha256:7627378876b705045cccdbda7c35d49fce17aa6527f1053f073055ad39e04db1'}
+  - {seq: 3, filename: KR6c0124_003.yaml, hash: 'sha256:fe6b7fc0110aaa515fb9ee04b44fc4476e0abeccaccb91f88cbf39e8e6c0ecba'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0124_001.markers.yaml, hash: 'sha256:aef9adadc542ea25a27b057a9d442e1af4567f0b64df54bfcde31bee8eb22688'}
+  - {seq: 2, role: markers, filename: assets/KR6c0124_002.markers.yaml, hash: 'sha256:e8064f2526759067b112545a7bb420cf99ae0138d2d133e8583b8181d853d7ea'}
+  - {seq: 3, role: markers, filename: assets/KR6c0124_003.markers.yaml, hash: 'sha256:6174428a2d5b84dabc5e0368363654d54bd3f3489f71df57ac8fe21564044824'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 13339
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 11574
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 8192
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0124_T_003-0635a03.h.3
+    span:
+    - body
+    - 0
+    - 8192
+  label: 大樂經顯義抄卷下
+  type: section
+  level: 2
+metadata:
+  title: 大樂經顯義抄
+  identifiers:
+    krp: KR6c0124
+    canon: T
+    vol: '61'
+    'no': '2239'
+  tags:
+    kr-categories: KR6c
+  source:
+    repository: tls-texts
+    path: data/tls/KR6c0124.xml
+  edition:
+    short: bkk
+hash: sha256:0f61feb523dfd224bec1d5baac368d3a3ff366e02293b66679c2d51533b77e1d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
+editions:
+- short: T

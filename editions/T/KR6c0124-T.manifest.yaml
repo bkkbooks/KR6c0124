@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6c0124/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0124/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR6c0124_001-T.yaml, hash: 'sha256:b783075de54c3a900719b26a3f5a6ce4e899e661ea790698000512029fd3209b'}
+  - {seq: 2, filename: KR6c0124_002-T.yaml, hash: 'sha256:f2ceb66b53b4ca0645b1fb6cecd5641cf90d621750300fb3f16be163fc3948c5'}
+  - {seq: 3, filename: KR6c0124_003-T.yaml, hash: 'sha256:6cc3505d48b2c10f83bcf0bb79296b62239168d4ec9dff3ab1fec1983fd1d486'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0124_001-T.markers.yaml, hash: 'sha256:72a797e17c3cee016521b7788d1a1cae6296ec5d4b9cbdf46afd3608c73f6808'}
+  - {seq: 2, role: markers, filename: assets/KR6c0124_002-T.markers.yaml, hash: 'sha256:f2db88dcf936c634651417c38c017f76e4c413be2082c74da03ef176d53cd9b4'}
+  - {seq: 3, role: markers, filename: assets/KR6c0124_003-T.markers.yaml, hash: 'sha256:e00ca8d992322deef0caefc66d460b94072d80fd651fc027e819239ace6a2e83'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 13339
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 11574
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 8192
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0124_T_003-0635a03.h.3
+    span:
+    - body
+    - 0
+    - 8192
+  label: 大樂經顯義抄卷下
+  type: section
+  level: 2
+metadata:
+  title: 大樂經顯義抄
+  identifiers:
+    krp: KR6c0124
+    canon: T
+    vol: '61'
+    'no': '2239'
+  tags:
+    kr-categories: KR6c
+  source:
+    repository: tls-texts
+    path: data/tls/KR6c0124.xml
+  edition:
+    short: T
+hash: sha256:682a20545cfd1e7962f78c938ce7e5f9a96377bfe6e4573277219913b175e80f
