@@ -9,7 +9,7 @@ assets:
   - {seq: 2, filename: KR6c0124_002-T.yaml, hash: 'sha256:f2ceb66b53b4ca0645b1fb6cecd5641cf90d621750300fb3f16be163fc3948c5'}
   - {seq: 3, filename: KR6c0124_003-T.yaml, hash: 'sha256:6cc3505d48b2c10f83bcf0bb79296b62239168d4ec9dff3ab1fec1983fd1d486'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0124_001-T.markers.yaml, hash: 'sha256:72a797e17c3cee016521b7788d1a1cae6296ec5d4b9cbdf46afd3608c73f6808'}
+  - {seq: 1, role: markers, filename: assets/KR6c0124_001-T.markers.yaml, hash: 'sha256:8b831e9c13d063b7fac73005db5a3a6624896e9e82f31017a85839094369d599'}
   - {seq: 2, role: markers, filename: assets/KR6c0124_002-T.markers.yaml, hash: 'sha256:f2db88dcf936c634651417c38c017f76e4c413be2082c74da03ef176d53cd9b4'}
   - {seq: 3, role: markers, filename: assets/KR6c0124_003-T.markers.yaml, hash: 'sha256:e00ca8d992322deef0caefc66d460b94072d80fd651fc027e819239ace6a2e83'}
 table_of_contents:
@@ -67,4 +67,4 @@ metadata:
     path: data/tls/KR6c0124.xml
   edition:
     short: T
-hash: sha256:682a20545cfd1e7962f78c938ce7e5f9a96377bfe6e4573277219913b175e80f
+hash: sha256:45cb30b6972360b0a5464518d2bd54c4ee9e8fb7b3a7de2be7b0d13ce26a0fba
